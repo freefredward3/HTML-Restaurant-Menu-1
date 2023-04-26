@@ -84,3 +84,13 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+#contactInfo{
+  display: flex;
+  justify-content: space-between;
+  background-color: beige;
+  padding: 10px;
+  text-decoration: none;
+  color: green;
+  margin-right: 25px;
+}
+
