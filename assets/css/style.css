@@ -94,3 +94,7 @@ th {
   margin-right: 25px;
 }
 
+#locationList{
+  list-style-type: none;
+  text-align:center;
+}
